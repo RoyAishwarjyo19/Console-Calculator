@@ -8,4 +8,5 @@ public interface Icmdcalc{
 	public double div(double x, double y);
 	public double log(double x, double y);
 	public double power(double x, double y);
+	
 }
